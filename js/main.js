@@ -3,7 +3,7 @@ onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('I really LIKEEE ur energy and somehow i feel like we’d make a pretty good match <3 WILL YOU BE MY KAJAHIM').split('')
+    const titles = ('Will you be my Kajahim? 💗').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
